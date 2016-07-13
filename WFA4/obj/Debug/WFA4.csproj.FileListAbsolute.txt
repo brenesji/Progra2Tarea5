@@ -1,0 +1,39 @@
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.exe.config
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.exe
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.pdb
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.Form1.resources
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.exe
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.pdb
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Documents\WFA4\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Programacion\Documents\WFA4\WFA4\obj\Debug\WFA4.exe
+C:\Users\Programacion\Documents\WFA4\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Programacion\Documents\WFA4-\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.exe
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Programacion\Documents\WFA4-\WFA4\bin\Debug\WFA4.exe
+C:\Users\Programacion\Documents\WFA4-\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+C:\Users\Programacion\Documents\WFA4-\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.exe
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\bin\Debug\WFA4.exe
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Programacion\Desktop\WFA4-master\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.exe
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\bin\Debug\WFA4.exe
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Jairo Brenes\Documents\Visual Studio 2015\Projects\WFA4-master\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
